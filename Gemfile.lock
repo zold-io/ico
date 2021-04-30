@@ -177,7 +177,7 @@ GEM
     retriable (3.1.2)
     retriable_proxy (1.0.2)
       retriable (>= 2.0, < 4.0)
-    rexml (3.2.4)
+    rexml (3.2.5)
     rubocop (1.5.0)
       parallel (~> 1.10)
       parser (>= 2.7.1.5)
